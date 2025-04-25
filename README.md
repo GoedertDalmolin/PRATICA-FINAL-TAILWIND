@@ -98,6 +98,3 @@ Após rodar o projeto, você pode acessar:
 - `/tawind-page` — Exemplo com **Tailwind CSS**
 
 ---
-
-
-Se quiser, posso gerar esse arquivo `.md` para download também. Só falar!
